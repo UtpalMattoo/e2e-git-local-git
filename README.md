@@ -1,8 +1,11 @@
 # 🚀 End-to-End Gen AI App Starter Pack 🚀
 
-Copy created to test/experiment with a CI/CD pipeline with Google Cloud Build.
+
+This GitHub repository is a copy created to test/experiment with a CI/CD pipeline with Google Cloud Build.
 
 Original source is here: https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack
+
+
 
 > **From Prototype to Production in Minutes.**
 
