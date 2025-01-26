@@ -25,6 +25,8 @@
 # integration is working with this dummy 
 # edit
 
+# new
+
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_vertexai import ChatVertexAI
 
