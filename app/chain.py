@@ -21,6 +21,10 @@
 # integration is working with this dummy 
 # edit
 
+# 2. you can test if cloud build/github 
+# integration is working with this dummy 
+# edit
+
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_vertexai import ChatVertexAI
 
