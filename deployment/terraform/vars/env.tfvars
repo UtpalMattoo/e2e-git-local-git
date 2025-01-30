@@ -11,6 +11,8 @@ cicd_runner_project_id = "instant-sound-443213-j3"
 host_connection_name = "CloudBuild_GitHub"
 
 # Name of the repository you added to Cloud Build
+#should it be this instead?
+#projects/instant-sound-443213-j3/locations/us-central1/connections/CloudBuild_GitHub/repositories/UtpalMattoo-e2e-git-local-git
 repository_name = "UtpalMattoo-e2e-git-local-git"
 
 # The Google Cloud region you will use to deploy the infrastructure
