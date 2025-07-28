@@ -35,7 +35,7 @@ tools = [search]
 
 # 2. Set up the language model
 llm = ChatVertexAI(
-    model="gemini-1.5-pro-002", temperature=0, max_tokens=1024, streaming=True
+    model="gemini-2.5-flash-lite", temperature=0, max_tokens=1024, streaming=True
 ).bind_tools(tools)
 
 

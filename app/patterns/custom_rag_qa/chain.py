@@ -35,7 +35,7 @@ import vertexai
 
 # Configuration
 EMBEDDING_MODEL = "text-embedding-004"
-LLM_MODEL = "gemini-1.5-flash-002"
+LLM_MODEL = "gemini-2.5-flash-lite"
 TOP_K = 5
 
 # Initialize logging
