@@ -96,12 +96,10 @@ poetry install --with streamlit,jupyter
 
     👥 Team-Friendly: Better than pip + requirements.txt for larger or shared projects
 
-🔗 Helpful Links used during setup
+## 🔗 Helpful Links used during setup 
 
-    Install Make on Windows - https://community.chocolatey.org/packages/make
-
-    Download Python from python.org -  https://www.python.org/downloads/
-
-    Poetry: pipx and Scoop Install Discussion - https://github.com/orgs/python-poetry/discussions/9674#discussioncomment-11358539
+- [Install Make on Windows](https://community.chocolatey.org/packages/make)
+- [Download Python from python.org](https://www.python.org/downloads/)
+- [Poetry: pipx and Scoop Install Discussion](https://github.com/orgs/python-poetry/discussions/9674#discussioncomment-11358539)
 
 
