@@ -1,14 +1,14 @@
 # Your Production Google Cloud project id
-prod_project_id = "prod-ai-starter-pack-448819"
+prod_project_id = "prod-vscode-cloudbuild-genai"
 
 # Your Staging / Test Google Cloud project id
-staging_project_id = "staging-ai-starter-pack-ai"
+staging_project_id = "stagng-vscode-cloudbuild-genai"
 
 # Your Google Cloud project ID that will be used to host the Cloud Build pipelines.
-cicd_runner_project_id = "instant-sound-443213-j3"
+cicd_runner_project_id = "lexical-botany-467219-c1"
 
 # Name of the host connection you created in Cloud Build
-host_connection_name = "CloudBuild_GitHub"
+host_connection_name = "CICD-VSCode-CloudBuild-GenA"
 
 # Name of the repository you added to Cloud Build
 repository_name = "UtpalMattoo-e2e-git-local-git"
