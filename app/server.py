@@ -91,6 +91,7 @@ async def stream_event_response(input_chat: InputChat) -> AsyncGenerator[str, No
         default=default_serialization,
     ) + "\n"
 
+    #calls chain.py - the langchain that handles the input
     async for data in chain.astream_events(input_dict, version="v2"):
         if data["event"] in SUPPORTED_EVENTS:
             yield json.dumps(data, default=default_serialization) + "\n"
