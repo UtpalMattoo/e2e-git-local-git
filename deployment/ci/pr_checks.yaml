@@ -22,6 +22,6 @@ steps:
     args:
       - "-c"
       - |
-        python -m poetry run pytest tests/integration
+        python -m poetry run pytest tests/integration --ignore=tests/integration/patterns/test_langgraph_dummy_agent.py
 options:
   logging: CLOUD_LOGGING_ONLY

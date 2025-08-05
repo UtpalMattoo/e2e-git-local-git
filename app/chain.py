@@ -15,6 +15,7 @@
 ##
 # you can replace this dummy chain with your own chain
 # look at minute mark 7:44 in youtube on github
+# earlier dummay edit did not trigger cloud build
 ##
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_vertexai import ChatVertexAI
